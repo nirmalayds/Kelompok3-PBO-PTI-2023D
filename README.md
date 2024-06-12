@@ -8,7 +8,7 @@ Inovasi yang kami tawarkan dalam aplikasi ini dengan menambahkan beberapa fitur 
 - Pembayaran  
   berfungsi untuk mengetahui mekanisme pembayaran pelanggan membayar secara DP ataupun Lunas.  
 - Biaya  
-  berfungsi untuk menunjukkan total biaya yang harus dibayar pemesan, sesuai dengan mekanisme pembayarannya.  
+  berfungsi untuk menunjukkan total biaya yang harus dibayar pemesan, sesuai durasi yang dipilih dan mekanisme pembayaran.  
 - Hapus  
   berfungsi untuk mengatur ulang data jika terjadi kesalahan karyawan dalam memasukkan data.  
 
